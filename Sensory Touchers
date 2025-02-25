@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensory Amplification Gloves</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        .product-img {
+            width: 300px;
+            border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            background-color: #1DB954;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #17a247;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sensory Amplification Gloves</h1>
+        <p>Experience touch like never before. Enhance your tactile senses and analyze materials with precision.</p>
+        <img src="gloves-image.jpg" alt="Sensory Amplification Gloves" class="product-img">
+        <h2>$299.99</h2>
+        <a href="#" class="button">Buy Now</a>
+    </div>
+</body>
+</html>
